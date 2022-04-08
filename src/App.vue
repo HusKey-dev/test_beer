@@ -85,4 +85,10 @@ body {
         position: static;
     }
 }
+
+@media screen and (max-width: 400px) {
+    body {
+        background-size: 250px;
+    }
+}
 </style>
