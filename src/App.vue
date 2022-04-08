@@ -79,4 +79,10 @@ body {
     text-align: center;
     color: #2c3e50;
 }
+
+@media screen and (max-height: 400px) {
+    .app__header {
+        position: static;
+    }
+}
 </style>
