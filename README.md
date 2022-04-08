@@ -1,19 +1,7 @@
-# vue_test
+# test_beer
 
-## Project setup
-```
-npm install
-```
+## Deployed Project Link
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+https://marvelous-cat-e63d75.netlify.app/
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
