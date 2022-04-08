@@ -3,5 +3,5 @@
 ## Deployed Project Link
 
 ```
-https://marvelous-cat-e63d75.netlify.app/
+[Link to Site](https://marvelous-cat-e63d75.netlify.app/)
 ```
