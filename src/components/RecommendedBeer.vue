@@ -34,7 +34,7 @@ export default {
     font-size: 1.1rem;
 
     hr {
-        margin: 5px 0;
+        margin: 5px 0px;
     }
 }
 </style>

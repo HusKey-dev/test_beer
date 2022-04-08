@@ -43,6 +43,7 @@ body {
     height: 65px;
     background: orange;
     position: sticky;
+    top: 0px;
     display: flex;
     align-items: center;
 
