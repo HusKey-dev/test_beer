@@ -2,7 +2,7 @@
     <div class="profile">
         <h2>Profile</h2>
         <div class="profile__card">
-            <img :src="user.avatarUrl" @error="setAltImg" v-bind:alt="pic" />
+            <img :src="user.avatarUrl" @error="setAltImg" />
             <div class="info">
                 <p><span class="bold">Name:</span> {{ user.name }}</p>
                 <p><span class="bold">Age:</span> {{ user.age }}</p>
